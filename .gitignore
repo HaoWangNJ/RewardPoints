@@ -5,3 +5,9 @@
 
 # Mac file
 .DS_Store
+
+# bower_components
+bower_components/
+
+# node modules
+node_modules/
